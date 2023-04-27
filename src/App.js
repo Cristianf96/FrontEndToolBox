@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Table, Form, Button } from 'react-bootstrap';
-// import axios from 'axios';
 import { urlFindData } from './constants';
 
 function App() {
